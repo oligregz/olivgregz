@@ -1,3 +1,17 @@
+.container-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-content img {
+  border-radius: 2rem;
+  margin: 1 rem;
+}
+
+
+
 .title {
   color: greenyellow;
+  margin: 1rem;
 }
+
